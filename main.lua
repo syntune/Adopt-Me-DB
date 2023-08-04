@@ -30,4 +30,4 @@ for i,v in pairs(directory:GetDescendants()) do
    end
 end
 
-print("Harvest successful! This will still work if Adopt Me's developers add new items.")
+print("Harvest successful!")
